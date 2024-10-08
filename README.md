@@ -27,7 +27,7 @@ The advanced password generator includes additional options for creating more co
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/prantikm07/Password-Generator.git
    cd password-generator
    ```
 
